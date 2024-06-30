@@ -5,10 +5,11 @@
   "scripts": {
     "build": "bash build.sh",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "rm-env": "rm -rf node_modules && rm -rf package-lock.json"
   },
   "dependencies": {
-    "@slidev/cli": "^0.43.13",
+    "@slidev/cli": "latest",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest"
   }
