@@ -100,7 +100,7 @@ Why should we care cross-cultural competence of models?
 - Although the model supports multiple languages, its proficiency varies across them.
  - Prompts with the same meaning in different languages yield different responses.
 
-However, the impact of AI-generated content on different cultural backgrounds is still unclear.
+However, **the impact of AI-generated content on different cultural backgrounds** is still unclear.
 
 <a href="https://poe.com/s/BoQ7YFH0V0xY4KGlScj1" target="_blank" alt="GitHub"
     title="an example for cross cultural AIGC response"
@@ -140,7 +140,7 @@ data Process
   - $A_i = 2L_i' + 2F_i' + C_i'$
 - trend over time
   - time window: 15 days
-  - method: avaerage
+  - method: average
 
 
 ---
@@ -268,6 +268,7 @@ Conclusions
 
 ---
 transition: slide-left
+hideInToc: true
 ---
 
 # References
@@ -294,6 +295,7 @@ perspective. Internet Res. 19(1), 7–25 (2009)
 layout: center
 class: text-center
 transition: slide-left
+hideInToc: true
 ---
 
 # Thanks for your listening!
@@ -301,6 +303,7 @@ You can find this slide at [slide.hobee.me](https://slide.hobee.me/HCII2024)
 
 ---
 layout: end
+hideInToc: true
 ---
 
 # The End
